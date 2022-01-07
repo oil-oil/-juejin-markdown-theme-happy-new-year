@@ -1,7 +1,6 @@
-# juejin 默认主题
+# juejin-markdown-happy-new-year
 
-主题列表：https://github.com/xitu/juejin-markdown-themes
-
+掘金markdown新年主题'
 ## License
 
 MIT
